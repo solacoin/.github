@@ -1,6 +1,6 @@
 # 2025 Cryptocurrency Organization
 
-Welcome to the official GitHub organization for **2025**, a decentralized cryptocurrency built on the **Solana** blockchain. The 2025 project is designed to deliver fast, scalable, and secure transactions, shaping the future of decentralized finance (DeFi).
+Welcome to the official GitHub organization for **SolaCoin**, a decentralized cryptocurrency built on the **Solana** blockchain. The 2025 project is designed to deliver fast, scalable, and secure transactions, shaping the future of decentralized finance (DeFi).
 
 ## Our Mission
 
@@ -10,15 +10,15 @@ Our mission is to create a powerful, next-generation cryptocurrency that combine
 
 Our organization hosts several key repositories related to the development and expansion of the 2025 ecosystem:
 
-### 1. **2025 Token Smart Contracts**
+### 1. **SolaCoin Token Smart Contracts**
    - The core of our cryptocurrency, developed using Rust and Solana's Program Library (SPL).
    - **Technology**: Rust, Solana
 
-### 2. **2025 Wallet**
+### 2. **SolaCoin Wallet**
    - A secure and easy-to-use digital wallet for managing your 2025 tokens.
    - **Technology**: React.js, Solana Web3.js
 
-### 3. **2025 Blockchain Explorer**
+### 3. **SolaCoin Blockchain Explorer**
    - A user-friendly explorer to track all 2025-related transactions, blocks, and wallet activities on the Solana blockchain.
    - **Technology**: Node.js, Solana RPC API
 
@@ -43,4 +43,4 @@ All projects under the **2025** organization are licensed under the MIT License.
 
 ---
 
-Together, let's build the future of decentralized finance with **2025**.
+Together, let's build the future of decentralized finance with **SolaCoin**.
